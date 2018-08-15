@@ -1,5 +1,5 @@
 # WPI-RBE-coursework
-The codes are from the 3 compulsory core courses every Robotics graduate student has to take.
+The codes are from the 3 compulsory core courses every Robotics graduate student has to take. Each course has its own branch.
 
 ### RBE 500 - Foundations of Robotics, Fall 2016, Prof. Julian Center  
 Probability Concepts, Estimation and Estimators, Sensor Characteristics and Errors, Perception in the Presence of Uncertainty, Robot Motion, Mobile Platform Localization, Mapping and Trajectory Estimation, Inertial Measurements and Navigation, Multiple Sensor Systems, Simultaneous Localization and Mapping
